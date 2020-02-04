@@ -9,4 +9,5 @@ def fun (a,b):
         list.append(mrz(0, b))
     return list
 print(fun(a,b))
+
 print("lufhtdx")
