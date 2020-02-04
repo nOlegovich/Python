@@ -10,4 +10,3 @@ def fun (a,b):
     return list
 print(fun(a,b))
 
-print("lufhtdx")
